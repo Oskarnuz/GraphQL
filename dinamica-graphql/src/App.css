@@ -1,0 +1,25 @@
+.App {
+  text-align: center;  
+}
+
+.ctn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: cornflowerblue;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: rgb(233, 227, 227);
+}
+
+.parag {
+  padding: 15px;
+}
