@@ -1,4 +1,3 @@
-// Import everything needed to use the `useQuery` hook
 import { useQuery, gql } from '@apollo/client';
 import './App.css';
 
